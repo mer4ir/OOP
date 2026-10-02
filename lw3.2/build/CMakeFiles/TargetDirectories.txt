@@ -1,0 +1,3 @@
+/users/mera/Documents/tuition/2semester/lw3.2/build/CMakeFiles/lw3.dir
+/users/mera/Documents/tuition/2semester/lw3.2/build/CMakeFiles/edit_cache.dir
+/users/mera/Documents/tuition/2semester/lw3.2/build/CMakeFiles/rebuild_cache.dir
